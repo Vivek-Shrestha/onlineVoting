@@ -1,0 +1,49 @@
+body{
+    background-image: url(images/IMG_1703.jpg);
+    background-size: cover;
+    
+}
+.login-bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  
+    
+    
+}
+.login-card{
+    backdrop-filter: blur(2rem);
+    opacity: 0.9;
+}
+
+/* h2{
+    background-color: aqua;
+} */
+.content-mt{
+    margin-top: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: blanchedalmond;
+}
+.form-control{
+    background-color:#fff;
+}
+.content-mt1{
+    margin-top: 0px;
+    /* display: flex;
+    align-items: center; */
+    /* justify-content: center; */
+    background-color: coral;
+    color: blanchedalmond;
+}
+.content-mt1 .footerIcon span{
+    margin-right: 30px;
+}
+.footerIcon  a{
+    color: #fff;
+}
+}
+
