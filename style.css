@@ -1,0 +1,38 @@
+body{
+    background-image: url(images/IMG_1703.jpg);
+    background-size: cover;
+    
+}
+.login-bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  
+    
+    
+}
+.login-card{
+    backdrop-filter: blur(2rem);
+    opacity: 0.9;
+}
+h2{
+    color: red;
+}
+label{
+    color: rgb(8, 67, 187);
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  border-radius:2px;
+  box-sizing: border-box;
+    
+    
+
+/* h2{
+    background-color: aqua;
+} */
+/* 
